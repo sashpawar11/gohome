@@ -3,6 +3,10 @@ body {
   background-color: #95c2de;
 }
 
+.bleh {
+    display: none;
+    visibility: hidden;
+}
 .mainbox {
   background-color: #95c2de;
   margin: auto;
