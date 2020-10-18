@@ -4,7 +4,9 @@ body {
 }
 
 .bleh {
+    
     display: none;
+    visibility : hidden;
     
 }
 .mainbox {
