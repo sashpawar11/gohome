@@ -4,8 +4,10 @@ body {
 }
 
 .bleh {
+    
     display: none;
-    visibility: hidden;
+    visibility : hidden;
+    
 }
 .mainbox {
   background-color: #95c2de;
